@@ -9,7 +9,7 @@ export default function Home() {
           Professional Digital Twin
           </h1>
           <p className="text-center text-gray-600 mb-8">
-          Deployed on AWS cloud
+          Developed by Alpha AI Consulting
           </p>
 
           <div className="h-[600px]">
