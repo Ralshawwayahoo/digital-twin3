@@ -1,0 +1,6 @@
+#!/bin/bash
+terraform state rm aws_s3_bucket.terraform_state
+terraform state rm aws_dynamodb_table.terraform_locks
+terraform state rm aws_s3_bucket_versioning.terraform_state
+terraform state rm aws_s3_bucket_server_side_encryption_configuration.terraform_state
+terraform state rm aws_s3_bucket_public_access_block.terraform_state
