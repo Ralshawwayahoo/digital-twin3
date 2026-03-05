@@ -9,7 +9,7 @@ export default function Home() {
           Professional Digital Twin
           </h1>
           <p className="text-center text-gray-600 mb-8">
-          Developed by Alpha AI Consulting
+          Developed by <a href="https://alphaaic.com" target="_blank" rel="noopener noreferrer" className="underline hover:text-gray-800">Alpha AI Consulting</a>
           </p>
 
           <div className="h-[600px]">
